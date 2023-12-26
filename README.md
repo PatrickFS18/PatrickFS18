@@ -27,12 +27,8 @@ Estou atualmente focado em aprimorar minhas habilidades e conhecimentos
    - Descrição concisa do projeto.
    - Tecnologias utilizadas: [Lista de tecnologias].
 -->
-2. **[Nome do Projeto 2](link para o projeto)**
-   - Descrição concisa do projeto.
-   - Tecnologias utilizadas: [Lista de tecnologias].
-
 ## 📫 Entre em Contato
-<!--
-- LinkedIn: [Seu Nome no LinkedIn](link do seu perfil)
--->
+
+- LinkedIn: [Patrick Souza](https://www.linkedin.com/in/patrick-souza-b25071249/)
+
 Obrigado por visitar meu perfil! 😊
