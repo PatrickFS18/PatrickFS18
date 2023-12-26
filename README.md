@@ -20,13 +20,17 @@ Obs.: Não inclui projetos privados, sendo estes maioria
 ## 🌱 Atualmente Aprendendo
 
 Estou atualmente focado em aprimorar minhas habilidades e conhecimentos
+-->
 
 ## 🛠️ Projetos Destacados
 
-1. **[Nome do Projeto 1](link para o projeto)**
-   - Descrição concisa do projeto.
-   - Tecnologias utilizadas: [Lista de tecnologias].
--->
+
+1. **[SIAPESQ](https://github.com/PatrickFS18/PatrickFS18)**
+   - Desenvolvedor fullstack na SIAPESQ (Sistema de inteligência artificial pesqueiro).
+   - Tecnologias utilizadas: React, Typescript, Electron.
+
+2. Privados.
+
 ## 📫 Entre em Contato
 
 - LinkedIn: [Patrick Souza](https://www.linkedin.com/in/patrick-souza-b25071249/)
