@@ -16,12 +16,6 @@ Bem-vindo ao meu perfil! 👋 Sou um desenvolvedor Full Stack que busca criar so
 
 Obs.: Não inclui projetos privados, sendo estes maioria
 
-<!--
-## 🌱 Atualmente Aprendendo
-
-Estou atualmente focado em aprimorar minhas habilidades e conhecimentos
--->
-
 ## 🛠️ Projetos Destacados
 
 
@@ -34,5 +28,11 @@ Estou atualmente focado em aprimorar minhas habilidades e conhecimentos
 ## 📫 Entre em Contato
 
 - LinkedIn: [Patrick Souza](https://www.linkedin.com/in/patrick-souza-b25071249/)
+
+<!--
+## 🌱 Atualmente Aprendendo
+
+Estou atualmente focado em aprimorar minhas habilidades e conhecimentos
+-->
 
 Obrigado por visitar meu perfil! 😊
