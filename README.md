@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil! 👋 Sou um desenvolvedor Full Stack que busca criar so
 
 ## 🚀 Tecnologias e Ferramentas
 
-- Linguagens: JavaScript, Python, HTML, CSS, Typescript, PHP
+- Linguagens: JavaScript, Python, Typescript, PHP, [HTML, CSS]
 - Frameworks: React, Node.js, Django, Laravel, Electron
 - Banco de Dados: MongoDB, MySQL, SQLite
 
