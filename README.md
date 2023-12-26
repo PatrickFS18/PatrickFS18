@@ -28,7 +28,7 @@ Estou atualmente focado em aprimorar minhas habilidades e conhecimentos
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PatrickFS18&show_icons=true&count_private=true&hide=stars)](https://github.com/PatrickFS18)
 
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickFS18&layout=compact)](https://github.com/PatrickFS18)
-
+ Obs.: Não inclui projetos privados, sendo estes maioria
 ## 📫 Entre em Contato
 <!--
 - LinkedIn: [Seu Nome no LinkedIn](link do seu perfil)
