@@ -20,13 +20,13 @@ Obs.: Não inclui projetos privados, sendo estes maioria
 ## 🌱 Atualmente Aprendendo
 
 Estou atualmente focado em aprimorar minhas habilidades e conhecimentos
--->
+
 ## 🛠️ Projetos Destacados
 
 1. **[Nome do Projeto 1](link para o projeto)**
    - Descrição concisa do projeto.
    - Tecnologias utilizadas: [Lista de tecnologias].
-
+-->
 2. **[Nome do Projeto 2](link para o projeto)**
    - Descrição concisa do projeto.
    - Tecnologias utilizadas: [Lista de tecnologias].
