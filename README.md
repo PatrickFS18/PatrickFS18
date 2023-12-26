@@ -19,7 +19,7 @@ Obs.: Não inclui projetos privados, sendo estes maioria
 ## 🛠️ Projetos Destacados
 
 
-1. **[SIAPESQ](https://github.com/PatrickFS18/PatrickFS18)**
+1. **[SIAPESQ]([https://github.com/PatrickFS18/PatrickFS18](https://github.com/siapesq))**
    - Desenvolvedor fullstack na SIAPESQ (Sistema de inteligência artificial pesqueiro).
    - Tecnologias utilizadas: React, Typescript, Electron.
 
