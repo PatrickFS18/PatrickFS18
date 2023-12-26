@@ -8,6 +8,14 @@ Bem-vindo ao meu perfil! 👋 Sou um desenvolvedor Full Stack que busca criar so
 - Frameworks: React, Node.js, Django, Laravel, Electron
 - Banco de Dados: MongoDB, MySQL, SQLite
 
+## 📊 Estatísticas do GitHub
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PatrickFS18&show_icons=true&count_private=true&hide=stars)](https://github.com/PatrickFS18)
+
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickFS18&layout=compact)](https://github.com/PatrickFS18)
+
+Obs.: Não inclui projetos privados, sendo estes maioria
+
 <!--
 ## 🌱 Atualmente Aprendendo
 
@@ -23,13 +31,6 @@ Estou atualmente focado em aprimorar minhas habilidades e conhecimentos
    - Descrição concisa do projeto.
    - Tecnologias utilizadas: [Lista de tecnologias].
 
-## 📊 Estatísticas do GitHub
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PatrickFS18&show_icons=true&count_private=true&hide=stars)](https://github.com/PatrickFS18)
-
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickFS18&layout=compact)](https://github.com/PatrickFS18)
-
-Obs.: Não inclui projetos privados, sendo estes maioria
 ## 📫 Entre em Contato
 <!--
 - LinkedIn: [Seu Nome no LinkedIn](link do seu perfil)
