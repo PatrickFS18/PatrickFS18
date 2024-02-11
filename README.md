@@ -35,4 +35,4 @@ Obs.: Não inclui projetos privados, sendo estes maioria
 Estou atualmente focado em aprimorar minhas habilidades e conhecimentos
 -->
 
-Obrigado por visitar meu perfil! 😊
+Obrigado por visitar meu perfil! 
