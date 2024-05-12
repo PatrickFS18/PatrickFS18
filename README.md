@@ -4,9 +4,9 @@ Bem-vindo ao meu perfil! 👋 Sou um desenvolvedor Full Stack que busca criar so
 
 ## 🚀 Tecnologias e Ferramentas
 
-- Linguagens: JavaScript, Python, Typescript, PHP, [HTML, CSS]
+- Linguagens: JavaScript, Python, Typescript, PHP
 - Frameworks: React, Node.js, Django, Laravel, Electron
-- Banco de Dados: MongoDB, MySQL, SQLite
+- Banco de Dados: MongoDB, MySQL, SQLite, PostgresSql
 
 ## 📊 Estatísticas do GitHub
 
@@ -23,7 +23,10 @@ Obs.: Não inclui projetos privados, sendo estes maioria
    - Desenvolvedor fullstack na SIAPESQ (Sistema de inteligência artificial pesqueiro).
    - Tecnologias utilizadas: React, Typescript, Electron.
 
-2. Privados.
+2. **[Ajuda Pet]([(https://github.com/ajuda-pet)])**
+   - Desenvolvedor fullstack no Projeto Ajuda Pet RS.
+   - Tecnologias utilizadas: React.
+.
 
 ## 📫 Entre em Contato
 
