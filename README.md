@@ -20,7 +20,7 @@ Obs.: Não inclui projetos privados, sendo estes maioria
 
 
 1. **[SIAPESQ]([https://github.com/PatrickFS18/PatrickFS18](https://github.com/siapesq))**
-   - Desenvolvedor fullstack na SIAPESQ (Sistema de inteligência artificial pesqueiro).
+   - Desenvolvedor fullstack na SIAPESQ: Destaque Nacional da região Sul pelo programa Conecta Startup 2023/24.
    - Tecnologias utilizadas: React, Typescript, Electron.
 
 2. **[Ajuda Pet]([(https://github.com/ajuda-pet)])**
