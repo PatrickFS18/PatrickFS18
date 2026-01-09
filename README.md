@@ -1,7 +1,5 @@
 # Patrick - Desenvolvedor(a) Full Stack
 
-Bem-vindo ao meu perfil! 👋 Sou um desenvolvedor Full Stack que busca criar soluções inovadoras e enfrentar desafios interessantes. Aqui você encontrará um resumo do meu conhecimento, projetos e estatísticas.
-
 ## 🚀 Tecnologias e Ferramentas
 
 - Linguagens: JavaScript, Python, Typescript, PHP
